@@ -1,6 +1,8 @@
 
 # Intro to Python and Pandas for Neuroscientists
 
+Copied by Vivien 22-03-2024
+
 Taught in March 2024 at the Max Planck Institute of Biological Intelligence.
 
 Teachers:
